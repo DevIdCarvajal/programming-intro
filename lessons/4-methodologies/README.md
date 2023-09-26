@@ -7,13 +7,7 @@
 
 ## 1. Ciclo de vida del software
 
-- Cascada
-  - Planificación
-  - Análisis
-  - Fase de diseño
-  - Implementación
-  - Depuración
-  - Explotación
+![Cascada](waterfall.jpg)
 
 ## 2. Manifiesto ágil
 
@@ -21,4 +15,4 @@
 
 ## Referencias
 
-[]()
+[Desarrollo en cascada](https://es.wikipedia.org/wiki/Desarrollo_en_cascada)
