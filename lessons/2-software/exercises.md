@@ -9,7 +9,7 @@
   - **Precaución**: La luz central está encendida en ámbar y las otras dos apagadas.
   - **No pasar**: La luz superior está encendida en rojo y las otras dos apagadas.
 
-3. Implementar la canción del elefante que se balanceaba sobre la tela de una araña y como veía que no se caía **fue** a llamar a otro elefante. A partir del segundo ya no "fue" sino que **fueron**. Cuando llegue a 10 elefantes, la tela de araña se romperá y la canción parará diciendo "y se cayeron".
+3. Implementar la canción del elefante que se balanceaba sobre la tela de una araña y como veía que no se caía **fue** a llamar a otro elefante. A partir del segundo ya no "fue" sino que **fueron**. Cuando llegue a 10 elefantes, la tela de araña se romperá y la canción parará diciendo "Y al final se cayeron."
 
 4. [Ejercicios Condicionales](https://aprendeconalf.es/docencia/python/ejercicios/condicionales/)
 
