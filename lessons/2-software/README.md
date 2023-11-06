@@ -104,3 +104,6 @@ Para manejar esta multiplicidad de opciones, los programas disponen de la posibi
 [Operadores aritméticos](https://www.ecured.cu/Operadores_aritm%C3%A9ticos)  
 [Operadores relacionales](https://www.ecured.cu/Operadores_relacionales)  
 [Operadores lógicos](https://www.ecured.cu/Operadores_l%C3%B3gicos)
+
+[Todo el mundo debería aprender a programar (code.org)](https://www.youtube.com/watch?v=sDk1pTDPROI)  
+[Aprende a programar con Elsa (Scratch)](https://studio.code.org/s/frozen/lessons/1/levels/1)
