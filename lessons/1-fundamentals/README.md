@@ -1,4 +1,4 @@
-# 1. Conceptos básicos de programación 
+# 1. Conceptos básicos de programación
 
 ## Índice
 
